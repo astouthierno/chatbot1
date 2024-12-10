@@ -59,7 +59,8 @@ opt_einsum==3.4.0
 optree==0.13.1
 packaging==24.1
 pandas==2.2.2
-pandas-profiling==3.2.0
+pandas-profiling
+joblib
 parso==0.8.4
 phik==0.12.4
 pillow==10.4.0
@@ -85,7 +86,7 @@ regex==2024.9.11
 requests==2.32.3
 rich==13.7.1
 rpds-py==0.19.0
-scikit-learn==1.5.1
+scikit-learn
 scipy==1.14.0
 seaborn==0.13.2
 setuptools==71.0.3
